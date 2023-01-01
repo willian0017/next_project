@@ -1,0 +1,19 @@
+.about {
+    text-align: center;
+    color: rgb(158, 155, 155);
+    font-weight: bold;
+}
+
+.about h1 {
+    font-size: 2em;
+    margin-bottom: 1em;
+    color: rgb(119, 106, 165);
+}
+
+.about p {
+    margin-bottom: 1.5em;
+}
+
+.about span {
+    color: rgb(119, 106, 165);
+}
